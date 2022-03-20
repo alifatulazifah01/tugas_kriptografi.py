@@ -1,0 +1,3 @@
+jika menggunakan modulo, index abjad dari alpabhet akan di batasi sebanyak 26 jadi jika huruf bergeser lebih dari index z atau ke 26 maka mengulang dari index awal 
+sedangkan jika tidak menggunakan modulo, alpabhet tidak di batasi, jadi jika bergeser lebih dari index z atau huruf z maka yang tampil adalah error 
+jadi, perbedaannya adalah jika menggunakan modulo mengulangi ke index awal dan jika tanpa modulo tidak dibatasi dan tidak bisa kembali ke index awal.
